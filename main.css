@@ -1,0 +1,38 @@
+
+html, body {
+  font-family: 'Bitter', serif;
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+a {
+  color: #990000;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline ;
+}
+
+.main {
+  max-width: 90vh;
+  margin: 5vh auto 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.hero-text {
+  font-size: 1.1em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+.m-lg-t {
+  margin-top: 3em;
+}
+
+.m-sm-t {
+  margin-top: .75em;
+}
